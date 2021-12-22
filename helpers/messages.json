@@ -1,0 +1,87 @@
+{
+    "sessionExpiredMessage":"Session expired, Please Sign out and Continue.",
+    "authTokenFailMessage":"Failed to authenticate token.",
+    "validateAuthTokenMessage":"Authorization token is mandatory.",
+
+    "businessDomainSaveMsg":"Business domain saved successfully.",
+    "businessDomainUpdateMsg":"Business domain updated successfully.",
+    "businessDomainDeleteMsg":"Business domain deleted successfully.",
+    "categorySaveMsg":"Category saved successfully.",
+    "categoryUpdateMsg":"Category updated successfully.",
+    "categoryDeleteMsg":"Category deleted successfully.",
+    "roleSaveMsg":"Role saved successfully.",
+    "roleUpdateMsg":"Role updated successfully.",
+    "roleDeleteMsg":"Role deleted successfully.",
+    "deliverystatusSaveMsg":"Delivery status saved successfully.",
+    "deliverystatusUpdateMsg":"Delivery status updated successfully.",
+    "deliverystatusDeleteMsg":"Delivery status deleted successfully.",
+    "paymenttypeSaveMsg":"Payment type saved successfully.",
+    "paymenttypeUpdateMsg":"Payment type updated successfully.",
+    "paymenttypeDeleteMsg":"Payment type deleted successfully.",
+    "salestypeSaveMsg":"Sales type saved successfully.",
+    "salestypeUpdateMsg":"Sales type updated successfully.",
+    "salestypeDeleteMsg":"Sales type deleted successfully.",
+
+    "displayunitSaveMsg":"Display unit saved successfully.",
+    "displayunitUpdateMsg":"Display unit updated successfully.",
+    "displayunitDeleteMsg":"Display unit deleted successfully.",
+
+    "countrySaveMsg":"Country saved successfully.",
+    "countryUpdateMsg":"Country updated successfully.",
+    "countryDeleteMsg":"Country deleted successfully.",
+
+
+    "citySaveMsg":"City saved successfully.",
+    "cityUpdateMsg":"City updated successfully.",
+    "cityDeleteMsg":"City deleted successfully.",
+
+
+    "stateSaveMsg":"State saved successfully.",
+    "stateUpdateMsg":"State updated successfully.",
+    "stateDeleteMsg":"State deleted successfully.",
+
+
+    "colorSaveMsg":"Color saved successfully.",
+    "colorUpdateMsg":"Color updated successfully.",
+    "colorDeleteMsg":"Color deleted successfully.",
+
+    "sizeSaveMsg":"Size saved successfully.",
+    "sizeUpdateMsg":"Size updated successfully.",
+    "sizeDeleteMsg":"Size deleted successfully.",
+
+    "clientSaveMsg":"Brand saved successfully.",
+    "clientUpdateMsg":"Brand updated successfully.",
+    "clientDeleteMsg":"Brand deleted successfully.",
+
+    "locationSaveMsg":"Location saved successfully.",
+    "locationUpdateMsg":"Location updated successfully.",
+    "locationDeleteMsg":"Location deleted successfully.",
+
+    "bookingSaveMsg":"Location booking saved successfully.",
+    "bookingUpdateMsg":"Location booking updated successfully.",
+    "bookingDeleteMsg":"Location booking deleted successfully.",
+
+
+    "stockreasonSaveMsg":"Stock reason saved successfully.",
+    "stockreasonUpdateMsg":"Stock reason updated successfully.",
+    "stockreasonDeleteMsg":"Stock reason deleted successfully.",
+    
+    "displayunitUnique":"Display unit must be unique",
+    "businessDomainUnique":"Business domain must be unique",
+    "roleUnique":"Role must be unique",
+    "categoryUnique":"Category must be unique",
+    "salestypeUnique":"Sales type must be unique",
+    "deliverystatusUnique":"Delivery status must be unique",
+    "stockreasonUnique":"Stock Reason must be unique",
+    "paymenttypeUnique":"Payment Type must be unique",
+    "countryUnique":"Country must be unique",
+    "cityUnique":"City must be unique",
+    "stateUnique":"State must be unique",
+    "sizeUnique":"Size must be unique",
+    "colorUnique":"Color must be unique",
+    "clientUnique":"Brand name & Company name must be unique,Same brand and company combo already exists",
+    "locationUnique":"Location code must be unique",
+    "bookingCodeUnique":"Booking code must be unique"
+
+
+}

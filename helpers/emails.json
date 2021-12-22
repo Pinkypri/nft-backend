@@ -1,0 +1,14 @@
+{
+	"forgetPassword": {
+	"subject": "Reset Your Password",
+	"content": "<tr><td><p>Hi,</p><p>You are receiving this because you (or someone else) have requested the reset of the password for your account.<br><br>Please click on the following link,or paste this into your browser to complete the process:  <a href='{{LINK}}' style='color: #5a2338; text-decoration: underline; cursor: pointer; font-weight: 700;'>Click here</a>  If you did not request this,please ignore this email and your password will remain unchanged.</p></td></tr>"
+	},
+	"brandRegistration":{
+	"subject": "Welcome To Anecdot",
+	"content": "Brand Registered Successfully with credentials below .<br> Email : {{EMAIL}} <br> Password : {{PASSWORD}}"
+	},
+	"resetPassword":{
+	"subject": "Password Reset Request",
+	"content": "<tr><td><p>Hi <span style='color: #5A2338; font-weight: 700;'>{{USERNAME}},</span></p><p>Your password reseted/changed successfully. </p></td></tr>"
+	}
+}
